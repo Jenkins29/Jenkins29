@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 My name is Jānis Lazdāns. I am an up-and-coming software developer currently specializing mainly in C# and .NET-oriented programming. I am always in pursuit of new knowledge and skills, which I am open to share with everyone.
 
-<!--
-**Jenkins29/Jenkins29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍞Technical skills:
 
-Here are some ideas to get you started:
+Git
+C#
+.NET
+Relational Databses & SQL
+HTTP & Web API Basics
+Unit Testing
+Test Driven Development
+Clean Code, SOLID
+Design Patterns
+HTML & CSS, VueJS, TypeScript & NodeJS basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻Currently working on [FlightPlanner](https://github.com/Jenkins29/FlightPlannerFinal) (C#, ASP.NET Core Web API, SQL)
+📌Get in touch with me: lazdans.janis29@gmail.com | www.linkedin.com/in/janis-lazdans
+❤️ Music, Ice Hockey, Cycling, Meditation
+
